@@ -1,7 +1,11 @@
 {
   "name": "grunt-localdata",
-  "description": "A grunt task for rendering ejs templates.",
+  "description": "",
   "version": "0.0.1",
+  "scripts": {
+  },
+  "author": "fabiofranchino.com",
+  "license": "MIT",
   "dependencies": {
     "ejs": "^2.5.8",
     "lodash": "^4.17.5"
